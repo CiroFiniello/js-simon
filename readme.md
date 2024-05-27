@@ -1,4 +1,4 @@
-Come strutturare la consegna
+<!-- Come strutturare la consegna
 1. Inizializziamo la repo con git e github come sempre.
 2. Aggiungiamo un file readme.md e ci incolliamo il testo della traccia dell'esercizio, poi facciamo il commit e il primo push su github
 3. Creiamo lo scaffolding di base, per avere la struttura che segue:
@@ -18,4 +18,4 @@ Dopo che sono stati inseriti i 5 numeri, il software dice quanti e quali dei num
 Consigli del giorno:
 Pensate prima in italiano.
 Dividete in piccoli problemi la consegna.
-Individuate gli elementi di cui avete bisogno per realizzare il programma.
+Individuate gli elementi di cui avete bisogno per realizzare il programma. -->
